@@ -1,4 +1,4 @@
-# Etch A Sketch toy
+# Etch A Sketch
 
 Recreate Etch A Sketch using only HTML, CSS and Vanilla JS.
 
